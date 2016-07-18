@@ -1,0 +1,10 @@
+/Users/codeforcoffee/Github/Chirpr/app/src/main/java/org/codeforcoffee/chirpr/TwitterIdentity.java
+
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
